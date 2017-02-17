@@ -10,7 +10,9 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
-  <script src="https://use.fontawesome.com/e1a97d25c2.js"></script>
+  <!-- fontawesome for icons -->
+  <link rel="stylesheet" href="{{ "/assets/css/font-awesome.css" | relative_url }}"/>
+  <!-- check out here: https://jpswalsh.github.io/academicons/ -->
   <link rel="stylesheet" href="{{ "/assets/css/academicons.css" | relative_url }}"/>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}

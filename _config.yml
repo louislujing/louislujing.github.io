@@ -17,11 +17,9 @@ title: "Jing's Homepage"
 author: Louis L. Jing
 email: louislujing@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  PhD in geomechanics, fluid dynamics and granular flows.
+  Louis L. Jing, PhD in geomechanics, fluid dynamics and granular flows.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  louislujing
-researchgate_username: Lu_jing4
 
 # Build settings
 markdown: kramdown
