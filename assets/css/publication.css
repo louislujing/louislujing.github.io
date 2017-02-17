@@ -110,3 +110,7 @@ span.bibbase_paper_note {
   line-height: 12pt;
   letter-spacing: -0.5px;
 }
+
+#bibbase_header {
+  display: none;
+}
