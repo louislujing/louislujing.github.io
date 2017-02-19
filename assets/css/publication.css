@@ -63,11 +63,13 @@ span.bibbase_paper_title a, span.bibbase_paper_title a:link, span.bibbase_paper_
   color: #5D0001;
   text-decoration: none;
   background-color: transparent;
+  cursor: default; // prevent shownig a "hand" when pointed by mouse cursor
 }
 
 span.bibbase_paper_title a:hover {
   text-decoration: underline;
   background-color: transparent;
+  pointer-events: none; // prevent linking to bibbase website
 }
 
 span.bibbase_paper_author {
