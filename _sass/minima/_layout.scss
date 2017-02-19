@@ -11,6 +11,7 @@
 }
 
 .site-title {
+  font-family: Rockwell Extra Bold, Papyrus, Courier New;
   font-size: 26px;
   font-weight: 300;
   line-height: 56px;
@@ -110,14 +111,14 @@
 
 .social-media-list li {
   display:inline-block;
-  font-size: 30px;
+  padding-top: $spacing-unit / 4;
 }
 
 .social-media-list a {
   color: $text-color;
 
   &:hover {
-    color: $brand-color;
+    color: $grey-color;
   }
 
 }
@@ -136,13 +137,13 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
-  width:         calc(55% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
