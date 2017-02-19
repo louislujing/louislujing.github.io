@@ -2,39 +2,38 @@
 
   <div class="wrapper">
 
-    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li> {{ site.title | escape }} </li>
 
-          {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endif %}
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+
+          <li>
+            <a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-fw"></i></a>
+          </li>
+
+          <li>
+            <a href="https://github.com/louislujing"><i class="fa fa-github fa-fw"></i></a>
+          </li>
+
+          <li>
+            <a href="https://scholar.google.com/citations?user=WMLzC7IAAAAJ&hl"><i class="ai ai-google-scholar ai-fw"></i></a>
+          </li>
+
+          <li>
+            <a href="https://researchgate.net/profile/lu_jing4"><i class="ai ai-researchgate ai-fw"></i></a>
+          </li>
+
+          <li>
+            <a href="http://orcid.org/0000-0002-1876-1110"><i class="ai ai-orcid ai-fw"></i></a>
+          </li>
+
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          <li>
-            <a href="https://github.com/louislujing"><i class="fa fa-github fa-fw"></i></span></a>
-          </li>
-
-          <li>
-            <a href="https://scholar.google.com/citations?user=WMLzC7IAAAAJ&hl"><span class="icon icon--github"><i class="ai ai-google-scholar ai-fw"></i></span></a>
-          </li>
-
-          <li>
-            <a href="https://researchgate.net/profile/lu_jing4"><span class="icon icon--github"><i class="ai ai-researchgate ai-fw"></i></span></a>
-          </li>
-
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
       </div>
+
     </div>
 
   </div>
