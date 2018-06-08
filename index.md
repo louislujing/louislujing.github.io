@@ -4,6 +4,6 @@ layout: page
 
 Welcome to my homepage.
 
-I’m currently a PhD candidate in The University of Hong Kong (HKU). My research interests focus on the discrete/continuum modelling of granular flows in natural and industrial context, such as debris flow and grain segregation.
+I obtained my PhD in The University of Hong Kong (HKU). I’m interested in the physics of granular flows in both natural and industrial context. I use discrete and continuum numerical methods, along with laboratory experiments, to understand the behavior of a large variety of grain-fluid mixtures.
 
-I use discrete element method, volume of fluid method, computational fluid dynamics and develop a framework coupling all of these components. I also perform laboratory experiments to understand the behavior of grain-water mixtures.
+A graphic overview of my research can be found here.
