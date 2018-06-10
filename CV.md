@@ -6,24 +6,28 @@ permalink: /cv/
 
 <img src="{{ site.baseurl }}{% link /assets/files/me.png %}" alt="photo" align="right" style="width: 150px;"/>
 
-
-
-Louis, Lu Jing
-
-Haking Wong Building,
-
-The University of Hong Kong,
-
-Pokfulam Road,
-
-Hong Kong
-
-email: lljing_at_hku.hk; louislujing_at_gmail.com
+[PDF version][1] 
 
 **EDUCATION**
 
-+ Ph.D., Geotechnical Engineering, The University of Hong Kong, Hong Kong, since 2013.
+Ph.D., Geotechnical Engineering
++ The University of Hong Kong, Hong Kong, 2013-2017
 
-+ M.Sc., Geotechnical Engineering, Tongji University, Shanghai, China, 2010–2012.
+M.Sc., Geotechnical Engineering 
++  Tongji University, Shanghai, China, 2010–2012
 
-+ B.S., Civil Engineering, Tongji University, Shanghai, China, 2006–2010.
+B.S., Civil Engineering
++ Tongji University, Shanghai, China, 2006–2010
+
+**CONTACTS**
+
+<pre>
+Haking Wong Building,
+The University of Hong Kong,
+Pokfulam Road,
+Hong Kong
+Emails: lljing_at_hku.hk; louislujing_at_gmail.com
+</pre>
+
+
+[1]: {{ site.baseurl }}{% link /assets/files/cv.pdf %}

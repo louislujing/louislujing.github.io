@@ -15,7 +15,7 @@ permalink: /research/
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </h2>
 
- 	{{ post.content | strip_html | truncatewords:75}}<br>
+ 	{{ post.content | strip_html | truncatewords:50}}<br>
       <a href="{{ post.url }}">Read more...</a><br>
   </li>
 
@@ -23,3 +23,7 @@ permalink: /research/
 </ul>
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+back to [home][1]
+
+[1]: {{ site.baseurl }}{% link index.md %}
