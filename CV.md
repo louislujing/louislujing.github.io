@@ -10,23 +10,23 @@ permalink: /cv/
 
 **EDUCATION**
 
-Ph.D., Geotechnical Engineering
-+ The University of Hong Kong, Hong Kong, 2013-2017
+Ph.D., Geotechnical Engineering, 2013-2017 
++ The University of Hong Kong, Hong Kong, China
 
-M.Sc., Geotechnical Engineering 
-+  Tongji University, Shanghai, China, 2010–2012
+M.Sc., Geotechnical Engineering, 2010–2012 
++  Tongji University, Shanghai, China
 
-B.S., Civil Engineering
-+ Tongji University, Shanghai, China, 2006–2010
+B.S., Civil Engineering, 2006–2010
++ Tongji University, Shanghai, China
 
-**CONTACTS**
+**CONTACT**
 
 <pre>
 Haking Wong Building,
 The University of Hong Kong,
 Pokfulam Road,
 Hong Kong
-Emails: lljing_at_hku.hk; louislujing_at_gmail.com
+Email: lljing_at_hku.hk; louislujing_at_gmail.com
 </pre>
 
 

@@ -1,15 +1,16 @@
 #bibbase {
-  font-family: "Trebuchet MS", verdana, geneva, sans-serif;
+  font-family: sans-serif; /* "Trebuchet MS", verdana, geneva, */
   font-size: 14px;
 }
 
 .bibbase_group {
-  font-size: 10pt;
-  font-weight: bold;
+  font-size: 9pt;
+  font-weight: normal;
   text-decoration: none;
-  color: black;
+  color: #778899;
   background: none;
   padding: 0;
+  padding-top: 5px;
 }
 
 .bibbase_paper {
@@ -52,11 +53,12 @@ span.bibbase_paper_titleauthoryear {
 }
 
 span.bibbase_paper_title {
-  color: #000000;
+  color: #696969; //#000000;
   font-size: 11pt;
   line-height: 12pt;
   font-weight: 500;
   display: block;
+  padding-top: 10px;
 }
 
 span.bibbase_paper_title a, span.bibbase_paper_title a:link, span.bibbase_paper_title a:visited {
