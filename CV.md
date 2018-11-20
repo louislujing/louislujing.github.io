@@ -27,7 +27,7 @@ Northwestern University
 2145 Sheridan Rd
 Evanston, IL 60208
 USA
-Email: louislujing@northwestern.edu
+Email: louislujing_at_northwestern.edu
 
 Haking Wong Building,
 The University of Hong Kong,
