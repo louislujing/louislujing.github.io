@@ -22,11 +22,18 @@ B.S., Civil Engineering, 2006–2010
 **CONTACT**
 
 <pre>
+Technological Institute
+Northwestern University
+2145 Sheridan Rd
+Evanston, IL 60208
+USA
+Email: louislujing@northwestern.edu
+
 Haking Wong Building,
 The University of Hong Kong,
 Pokfulam Road,
 Hong Kong
-Email: lljing_at_hku.hk; louislujing_at_gmail.com
+Email: lljing_at_hku.hk
 </pre>
 
 
