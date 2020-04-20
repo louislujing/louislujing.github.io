@@ -2,7 +2,7 @@
 layout: post
 title:  "Effects of Base Roughness in Granular Flows"
 date:   2017-02-19 20:20:51 +0800
-categories: project
+categories: news
 ---
 
 One way that a granular flow differs from ordinary fluids is that its dynamics depends

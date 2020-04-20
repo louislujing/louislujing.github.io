@@ -1,16 +1,33 @@
 
-@inproceedings{jing_coupled_2018,
-	series = {Trends in {Mathematics}},
-	title = {Coupled fluid-particle modeling of submerged granular collapse},
-	isbn = {978-3-319-99474-1},
-	abstract = {We perform coupled fluid-particle modeling to understand the collapse of underwater granular columns in comparison with dry cases, with a variety of initial aspect ratios. Our results show that the submerged collapse leads to a shorter runout and thicker front due to the resistance provided by the ambient fluid. An interesting process of vortex formation is observed in the fluid as particles turn into a shear flow. At high aspect ratios, the vortex in water can significantly modify the surface morphology of the final deposit due to the fluid inertia developed on the surface of the granular layer.},
-	booktitle = {Micro to {MACRO} {Mathematical} {Modelling} in {Soil} {Mechanics}},
-	publisher = {Springer International Publishing},
-	author = {Jing, L. and Yang, G. C. and Kwok, C. Y. and Sobral, Y. D.},
-	editor = {Giovine, Pasquale and Mariano, Paolo Maria and Mortara, Giuseppe},
-	year = {2018},
-	keywords = {Granular collapse, CFD-DEM, Submerged granular flow},
-	pages = {187--194}
+@article{weinhart_fast_2020,
+	title = {Fast, flexible particle simulations — {An} introduction to {MercuryDPM}},
+	volume = {249},
+	issn = {0010-4655},
+	url = {http://www.sciencedirect.com/science/article/pii/S0010465519304357},
+	doi = {10.1016/j.cpc.2019.107129},
+	abstract = {We introduce the open-source package MercuryDPM, which we have been developing over the last few years. MercuryDPM is a code for discrete particle simulations. It simulates the motion of particles by applying forces and torques that stem either from external body forces, (gravity, magnetic fields, etc.) or particle interactions. The code has been developed extensively for granular applications, and in this case these are typically (elastic, plastic, viscous, frictional) contact forces or (adhesive) short-range forces. However, it could be adapted to include long-range (molecular, self-gravity) interactions as well. MercuryDPM is an object-oriented algorithm with an easy-to-use user interface and a flexible core, allowing developers to quickly add new features. It is parallelised using MPI and released under the BSD 3-clause licence. Its open-source developers’ community has developed many features, including moving and curved walls; state-of-the-art granular contact models; specialised classes for common geometries; non-spherical particles; general interfaces; restarting; visualisation; a large self-test suite; extensive documentation; and numerous tutorials and demos. In addition, MercuryDPM has three major components that were originally invented and developed by its team: an advanced contact detection method, which allows for the first time large simulations with wide size distributions; curved (non-triangulated) walls; and multicomponent, spatial and temporal coarse-graining, a novel way to extract continuum fields from discrete particle systems. We illustrate these tools and a selection of other MercuryDPM features via various applications, including size-driven segregation down inclined planes, rotating drums, and dosing silos.
+	\textit{Program summary}
+	Program Title: MercuryDPM Program Files doi: http://dx.doi.org/10.17632/n7jmdrdc52.1 Licensing provisions: BSD 3-Clause Programming language: C++, Fortran Supplementary material: http://mercurydpm.org Nature of problem: Simulation of granular materials, i.e. conglomerations of discrete, macroscopic particles. The interaction between individual grains is characterised by a loss of energy, making the behaviour of granular materials distinct from atomistic materials, i.e. solids, liquids and gases. Solution method: MercuryDPM (Thornton et al., 2013, 2019; Weinhart et al., 2016, 2017, 2019) is an implementation of the Discrete Particle Method (DPM), also known as the Discrete Element Method (DEM) (Cundall and Strack, 1979). It simulates the motion of individual particles by applying forces and torques that stem either from external forces (gravity, magnetic fields, etc.) or from particle-pair and particle–wall interactions (typically elastic, plastic, dissipative, frictional, and adhesive contact forces). DPM simulations have been successfully used to understand the many unique granular phenomena – sudden phase transitions, jamming, force localisation, etc. – that cannot be explained without considering the granular microstructure. Unusual features: MercuryDPM was designed ab initio with the aim of allowing the simulation of realistic geometries and materials found in industrial and geotechnical applications. It thus contains several bespoke features invented by the MercuryDPM team: (i) a neighbourhood detection algorithm (Krijgsman et al., 2014) that can efficiently simulate highly polydisperse packings, which are common in industry; (ii) curved walls (Weinhart et al., 2016) making it possible to model real industrial geometries exactly, without triangulation errors; and (iii) MercuryCG (Weinhart et al., 2012, 2013, 2016; Tunuguntla et al., 2016), a state-of-the-art analysis tool that extracts local continuum fields, providing accurate analytical/rheological information often not available from experiments or pilot plants. It further contains a large range of contact models to simulate complex interactions such as elasto-plastic deformation (Luding, 2008), sintering (Fuchs et al., 2017), melting (Weinhart et al., 2019), breaking, wet and dry cohesion (Roy et al., 2016, 2017), and liquid migration (Roy et al., 2018), all of which have important industrial applications.},
+	journal = {Computer Physics Communications},
+	author = {Weinhart, Thomas and Orefice, Luca and Post, Mitchel and van Schrojenstein Lantman, Marnix P. and Denissen, Irana F. C. and Tunuguntla, Deepak R. and Tsang, J. M. F. and Cheng, Hongyang and Shaheen, Mohamad Yousef and Shi, Hao and Rapino, Paolo and Grannonio, Elena and Losacco, Nunzio and Barbosa, Joao and Jing, Lu and Alvarez Naranjo, Juan E. and Roy, Sudeshna and den Otter, Wouter K. and Thornton, Anthony R.},
+	month = apr,
+	year = {2020},
+	pages = {107129}
+}
+
+@article{yang_pore_2020,
+	title = {Pore-Scale Simulation of Immersed Granular Collapse: Implications to Submarine Landslides},
+	volume = {125},
+	number = {1},
+	issn = {2169-9011},
+	url = {http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005044},
+	doi = {10.1029/2019JF005044},
+	abstract = {The collapse of granular columns in a viscous fluid is a common model case for submarine geophysical flows. In immersed granular collapses, dense packings result in slow dynamics and short runout distances, while loose packings are associated with fast dynamics and long runout distances. However, the underlying mechanisms of the collapse initiation and runout, particularly regarding the complex fluid-particle interactions at the pore scale, are yet to be fully understood. In this study, a three-dimensional approach coupling the lattice Boltzmann method and the discrete element method is adopted to investigate the influence of packing density on the collapsing dynamics. As a supplement to previous experimental measurements, the direct numerical simulation of fluid-particle interactions explicitly provides micromechanical evidence of the pore pressure feedback mechanism. In dense cases, a strong arborescent contact force network can form to prevent particles from sliding, resulting in a creeping failure behavior. In contrast, the granular phase is liquefied substantially in loose cases, leading to a rapid and catastrophic failure. This opposing dilative/contractive behavior linked to the initial packing is robust and does not depend on the column size. Furthermore, hydroplaning can take place in large enough loose cases due to the fast-moving surge front, which reduces the frictional resistance dramatically and thereby results in a long runout distance. More quantitatively, we are able to linearly correlate the normalized runout distance and the densimetric Froude number across a wide range of length scales, including small-scale numerical/experimental data and large-scale field data.},
+	journal = {Journal of Geophysical Research: Earth Surface},
+	author = {Yang, G.C. and Jing, L. and Kwok, C.Y. and Sobral, Y.D.},
+	month = jan,
+	year = {2020},
+	pages = {e2019JF005044}
 }
 
 @article{yang_comprehensive_2019,
@@ -41,6 +58,21 @@
 	year = {2019},
 	pages = {532--543}
 }
+
+@inproceedings{jing_coupled_2018,
+	series = {Trends in {Mathematics}},
+	title = {Coupled fluid-particle modeling of submerged granular collapse},
+	isbn = {978-3-319-99474-1},
+	abstract = {We perform coupled fluid-particle modeling to understand the collapse of underwater granular columns in comparison with dry cases, with a variety of initial aspect ratios. Our results show that the submerged collapse leads to a shorter runout and thicker front due to the resistance provided by the ambient fluid. An interesting process of vortex formation is observed in the fluid as particles turn into a shear flow. At high aspect ratios, the vortex in water can significantly modify the surface morphology of the final deposit due to the fluid inertia developed on the surface of the granular layer.},
+	booktitle = {Micro to {MACRO} {Mathematical} {Modelling} in {Soil} {Mechanics}},
+	publisher = {Springer International Publishing},
+	author = {Jing, L. and Yang, G. C. and Kwok, C. Y. and Sobral, Y. D.},
+	editor = {Giovine, Pasquale and Mariano, Paolo Maria and Mortara, Giuseppe},
+	year = {2018},
+	keywords = {Granular collapse, CFD-DEM, Submerged granular flow},
+	pages = {187--194}
+}
+
 
 @incollection{farid_effect_2018,
 	address = {Singapore},
