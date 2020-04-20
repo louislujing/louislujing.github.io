@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dynamics of Immersed Granular flow"
+title:  "Dynamics of immersed granular flows"
 date:   2018-06-08 20:20:51 +0800
 categories: project
 ---

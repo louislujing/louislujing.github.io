@@ -4,13 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-<strong>Journal</strong>
+<br>
+
+<strong>Journal Papers</strong>
 
 <script src="https://bibbase.org/show?bib=louislujing.github.io%2Fassets%2Ffiles%2Fmypubs.bib&jsonp=1&theme=default&filter=type:article"></script>
 
-<p>
-<p>
+<br>
+<br>
 
-<strong>Conference</strong>
+<strong>Conference Papers</strong>
 
 <script src="https://bibbase.org/show?bib=louislujing.github.io%2Fassets%2Ffiles%2Fmypubs.bib&jsonp=1&theme=default&filter=type:inproceedings"></script>

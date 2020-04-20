@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Effects of Base Roughness in Granular Flows"
+title:  "Effects of base roughness in granular flows down inclines"
 date:   2017-02-19 20:20:51 +0800
-categories: news
+categories: project
 ---
 
 One way that a granular flow differs from ordinary fluids is that its dynamics depends
@@ -12,8 +12,7 @@ the slip occurring at the base can modify the bulk rheological behavior, which c
 the disorder flow state to a crystallized structure. Such a complicated dependency on solid boundaries in
 granular flows contrasts with the simple non-slip boundary condition in ordinary fluids.
 
-Common boundary conditions at the base
-include flat, bumpy, and erodible bases, among wihch the bumpy base attracts most
+Common boundary conditions at the base include flat, bumpy, and erodible bases, among wihch the bumpy base attracts most
 attentions in both experimental and numerical studies of granular flows.
 
 The bumpiness of a boundary made of glued/fix particles depends not only on the
@@ -28,8 +27,8 @@ This project aims to understand the effect of base roughness in granular flows. 
 geometric roughness of a base made of spheres is first characterized, with a wide range
 of particle size and packing arrangement (check out [here][1]). 
 
-To study the base roughness encountered in the modeling of granular flows.
-
+<!-- To study the base roughness encountered in the modeling of granular flows. -->
+<!-- 
 Why important
 - base roughness is important; boundary condition is difficult in granular flow
 
@@ -40,6 +39,6 @@ The dynamics of granular flows depend significantly on the nature of their bound
 
 Aim of the project
 
-What we have done
+What we have done -->
 
 [1]: http://doi.org/10.1103/PhysRevE.94.052901 
