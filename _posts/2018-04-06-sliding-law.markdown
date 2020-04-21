@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rate-dependent sliding laws for long-runout granular avalanches "
-date:   2020-04-20 13:40:12 +0800
+date:   2018-04-06 13:40:12 +0800
 categories: project
 ---
 
