@@ -4,10 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<br>
-
-<strong>Journal Papers</strong>
-
 <script src="https://bibbase.org/show?bib=louislujing.github.io%2Fassets%2Ffiles%2Fmypubs.bib&jsonp=1&theme=default&filter=type:article"></script>
 
 <br>

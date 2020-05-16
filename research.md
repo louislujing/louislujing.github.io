@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<strong>Posts</strong>
+<!-- <strong>Posts</strong> -->
 
 <ul class="post-list">
 {% for post in site.categories['project'] %}
