@@ -33,9 +33,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-plugins: ['jekyll/scholar']
-scholar:
-  style: mla
+# plugins: ['jekyll/scholar']
+# scholar:
+#   style: mla
 
 
 # Exclude from processing.
