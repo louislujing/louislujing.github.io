@@ -31,11 +31,17 @@ github_username:  ""
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
 
-# plugins: ['jekyll/scholar']
-# scholar:
-#   style: mla
+# jekyll-scholar settings
+scholar:
+  style: apa
+  source: ./assets/files/
+  bibliography: mypubs.bib
+  sort_by: year, month
+  order: descending
+  group_by: none #type, year
+  group_order: descending
 
 
 # Exclude from processing.
