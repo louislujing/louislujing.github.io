@@ -39,13 +39,13 @@ include:
 
 # jekyll-scholar settings
 scholar:
+  last_name: Jing
   style: apa
   source: ./assets/files/
   bibliography: mypubs.bib
+  # bibliography_template: bib
   sort_by: year, month
   order: descending
-  group_by: none #type, year
-  group_order: descending
 
 
 # Exclude from processing.
