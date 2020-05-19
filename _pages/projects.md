@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
 
 <!-- <strong>Posts</strong> -->
@@ -9,8 +9,8 @@ permalink: /research/
 <ul class="post-list">
 {% for post in site.categories['project'] %}
   <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+<!--     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+ -->
     <h2>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </h2>

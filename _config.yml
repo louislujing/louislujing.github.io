@@ -33,6 +33,10 @@ theme: minima
 plugins:
   # - jekyll-feed
 
+# Includes & excludes
+include:
+   - _pages
+
 # jekyll-scholar settings
 scholar:
   style: apa
