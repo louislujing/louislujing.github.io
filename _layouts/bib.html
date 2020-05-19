@@ -25,9 +25,9 @@
         {% else %}
           {% unless forloop.last %}
             {% if author.last == site.scholar.last_name %}
-              <em>{{author.last}}, {{author.first}}</em>,
+              <em>{{author.last}}, {{author.first}}</em>;
             {% else %}
-              {{author.last}}, {{author.first}}
+              {{author.last}}, {{author.first}}; 
             {% endif %}
           {% else %}
             {% if author.last == site.scholar.last_name %}
@@ -54,13 +54,13 @@
 
   <span class="links">
   {% if entry.abstract %}
-    [<a class="abstract">Abs</a>]
+    [<a class="abstract">abs</a>]
   {% endif %}
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
-  {% if entry.html %}
-    [<a href="{{ entry.html }}" target="_blank">HTML</a>]
+  {% if entry.url %}
+    [<a href="{{ entry.url }}" target="_blank">url</a>]
   {% endif %}
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]

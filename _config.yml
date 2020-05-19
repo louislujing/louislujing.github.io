@@ -30,12 +30,17 @@ github_username:  ""
 
 # Build settings
 theme: minima
-plugins:
-  # - jekyll-feed
 
 # Includes & excludes
 include:
    - _pages
+
+# Other setings
+jquery_version: "1.12.4"
+
+# Plugins 
+plugins:
+  # - jekyll-feed
 
 # jekyll-scholar settings
 scholar:
@@ -46,7 +51,6 @@ scholar:
   # bibliography_template: bib
   sort_by: year, month
   order: descending
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

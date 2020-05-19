@@ -17,6 +17,11 @@
 
   <link rel="stylesheet" href="{{ "/assets/css/publication.css" | relative_url }}"/>
 
+  <!-- Load jQuery (for css animation) -->
+  <script src="//code.jquery.com/jquery-{{ site.jquery_version }}.min.js"></script>
+  <!-- Load bib JS-->
+  <script src="{{ '/assets/js/bib.js' | prepend: site.baseurl }}"></script>
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
