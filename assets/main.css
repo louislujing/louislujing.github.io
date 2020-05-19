@@ -183,20 +183,20 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .publications h2 { color: #B509AC; font-size: 32px; margin-bottom: 30px; text-align: center; }
 
-.year { border-top: 1px dotted #e8e8e8; color: #828282; margin: 1em -3em -3ex -2em; padding-top: 0ex; text-align: right; }
+.year { border-top: 1px dotted #e8e8e8; color: #828282; margin: 1em 0.2em -3ex -2em; padding-top: 0ex; text-align: right; }
 
 .bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: circle; }
-.bibliography li { margin: 10px 0; position: relative; }
+.bibliography li { margin: 10px 5em 0 0em; position: relative; }
 .bibliography li span { display: block; }
 .bibliography li .title { font-weight: bolder; }
 .bibliography li .author a { border-bottom: 1px dashed #B509AC; }
 .bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 .bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
 .bibliography li a.abstract, .bibliography li a.bibtex { cursor: pointer; }
-.bibliography li .hidden { font-size: 14px; max-height: 0px; overflow: hidden; text-align: justify; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
+.bibliography li .hidden { font-size: 14px; max-height: 0px; overflow: hidden; text-align: left; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 .bibliography li .hidden p { line-height: 1.4em; margin: 10px; }
 .bibliography li .hidden pre { font-size: 1em; line-height: 1.4em; padding: 10px; }
-.bibliography li .hidden.open { max-height: 100em; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
+.bibliography li .hidden.open { text-align: left; max-height: 100em; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 .bibliography li span.abstract.hidden { border: dashed 1px #fdfdfd; }
 .bibliography li span.abstract.hidden.open { border-color: #828282; }
 .bibliography abbr { position: absolute; left: -7em; }
