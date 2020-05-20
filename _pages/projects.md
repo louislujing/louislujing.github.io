@@ -4,10 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- <strong>Posts</strong> -->
+## {{ page.title }}
 
 <ul class="post-list">
-{% for post in site.categories['project'] %}
+{% for post in site.categories['projects'] %}
   <li>
 <!--     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
  -->

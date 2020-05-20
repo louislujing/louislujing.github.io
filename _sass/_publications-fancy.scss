@@ -14,19 +14,20 @@ $theme-color:       #B509AC !default;
 .year {
     border-top: 1px dotted $grey-color-light;
     color: $grey-color;
-    margin: 1em 0.2em -3ex -2em;
-    // margin: 0 -3em -2.5ex -2em;
-    padding-top: 0ex;
     text-align: right;
+    // margin: 0em 0em 0ex 0em;
+    // margin: 0 -3em -2.5ex -2em;
+    margin: 0 0em -0.5ex -2em;
+    // padding-top: 0ex;
 }
 .bibliography {
     margin-bottom: 50px;
     margin-top: 20px;
-    list-style-type: circle;
+    // list-style-type: circle;
 
     li {
 //        margin: 10px 0em;
-        margin: 10px 5em 0 0em;
+        margin: 5px 0em 0 0em;
         position: relative;
 
         span { display: block; }

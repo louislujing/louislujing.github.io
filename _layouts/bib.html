@@ -56,11 +56,12 @@
   {% if entry.abstract %}
     [<a class="abstract">abs</a>]
   {% endif %}
+    <!-- [<a class="bibtex">bibtex</a>] -->
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.url %}
-    [<a href="{{ entry.url }}" target="_blank">url</a>]
+    <a href="{{ entry.url }}" target="_blank">link</a>
   {% endif %}
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]

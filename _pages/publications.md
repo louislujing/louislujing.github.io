@@ -4,10 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-<strong>Journal Articles</strong>
-
+### Journal Articles
 {% bibliography --query @article %}
 
-<strong>Refereed Conference Papers</strong>
-
+### Conference Articles
 {% bibliography --query @inproceedings %}

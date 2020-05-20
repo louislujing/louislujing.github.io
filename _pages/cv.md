@@ -4,23 +4,28 @@ title: CV
 permalink: /cv/
 ---
 
+## {{ page.title }}
+
+
 <!-- <img src="{{ site.baseurl }}{% link /assets/files/me.png %}" alt="photo" align="right" style="width: 150px;"/>
  -->
 [PDF version][1] 
 
 
-**EDUCATION**
+#### Education
 
-Ph.D., Geotechnical Engineering, 2013-2017 @ The University of Hong Kong, Hong Kong, China
++ Ph.D., Geotechnical Engineering, 2013-2017 
+	+ The University of Hong Kong, Hong Kong, China
 
-
-M.Sc., Geotechnical Engineering, 2010–2012 @ Tongji University, Shanghai, China
-
-
-B.S., Civil Engineering, 2006–2010 @ Tongji University, Shanghai, China
++ M.Sc., Geotechnical Engineering, 2010–2012
+	+ Tongji University, Shanghai, China
 
 
-**CONTACT**
++ B.S., Civil Engineering, 2006–2010
+	+ Tongji University, Shanghai, China
+
+
+#### Contact
 
 <pre>
 Technological Institute

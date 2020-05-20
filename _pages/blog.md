@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<!-- <strong>Posts</strong> -->
+## {{ page.title }}
 
 <ul class="post-list">
 {% for post in site.categories['blog'] %}
