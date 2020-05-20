@@ -183,10 +183,10 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .publications h2 { color: #B509AC; font-size: 32px; margin-bottom: 30px; text-align: center; }
 
-.year { border-top: 1px dotted #e8e8e8; color: #828282; margin: 1em 0.2em -3ex -2em; padding-top: 0ex; text-align: right; }
+.year { border-top: 1px dotted #e8e8e8; color: #828282; text-align: right; margin: 0 0em -0.5ex -2em; }
 
-.bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: circle; }
-.bibliography li { margin: 10px 5em 0 0em; position: relative; }
+.bibliography { margin-bottom: 50px; margin-top: 20px; }
+.bibliography li { margin: 5px 0em 0 0em; position: relative; }
 .bibliography li span { display: block; }
 .bibliography li .title { font-weight: bolder; }
 .bibliography li .author a { border-bottom: 1px dashed #B509AC; }
