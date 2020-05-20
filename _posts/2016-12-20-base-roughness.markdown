@@ -2,7 +2,7 @@
 layout: post
 title:  "Effects of base roughness in granular flows down inclines"
 date:   2016-12-20 20:20:51 +0800
-categories: project
+categories: projects
 ---
 
 One way that a granular flow differs from ordinary fluids is that its dynamics depends
@@ -25,7 +25,7 @@ to the governing equations, which requirs the knowledge of slip/non-slip conditi
 
 This project aims to understand the effect of base roughness in granular flows. The
 geometric roughness of a base made of spheres is first characterized, with a wide range
-of particle size and packing arrangement {% cite jing_characterization_2016 %}; link is [here][1].
+of particle size and packing arrangement {% cite jing_characterization_2016 %}.
 
 
 <!-- To study the base roughness encountered in the modeling of granular flows. -->
