@@ -11,9 +11,9 @@
 }
 
 .site-title {
-  font-family: Rockwell Extra Bold, Papyrus, Courier New;
+  font-family: Rockwell Extra Bold;
   font-size: 26px;
-  font-weight: 300;
+  font-weight: $base-font-weight * 2;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -137,13 +137,13 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
