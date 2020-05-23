@@ -15,7 +15,7 @@
 
       <div class="trigger" onclick="void(0)">
         {% for my_page in site.pages %}
-        {% unless my_page.no_menu %}
+        {% unless my_page.menu == "noshow" %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}

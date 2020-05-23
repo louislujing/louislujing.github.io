@@ -2,7 +2,7 @@
 layout: post
 title:  "Graphic overview of my PhD work"
 date:   2017-01-04 10:00:55 +0800
-categories: blog
+categories: research
 ---
 
 Here is a graphic overview of my PhD [thesis](https://hub.hku.hk/handle/10722/241402). It was designed to become a [newsletter cover](http://www.civil.hku.hk/newsletter/newsletter2017feb.pdf) for Department of Civil Engineering, HKU. 

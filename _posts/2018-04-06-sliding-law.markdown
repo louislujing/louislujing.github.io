@@ -2,7 +2,7 @@
 layout: post
 title:  "Rate-dependent sliding laws for long-runout granular avalanches "
 date:   2018-04-06 13:40:12 +0800
-categories: projects
+categories: research
 ---
 
 Characterization of slip velocity for granular flows over inclines of different geometric roughness, ranging from flat to bumpy. Modeling the frictional boundary behaviors as rate-dependent sliding laws; that is, the basal shear stress is proportional to the basal normal stress by a factor (i.e., the basal friction coefficient) that depends on local shear rates.

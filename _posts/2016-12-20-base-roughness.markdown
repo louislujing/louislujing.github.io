@@ -2,7 +2,7 @@
 layout: post
 title:  "Effects of base roughness in granular flows down inclines"
 date:   2016-12-20 20:20:51 +0800
-categories: projects
+categories: research
 ---
 
 One way that a granular flow differs from ordinary fluids is that its dynamics depends

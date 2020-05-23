@@ -2,7 +2,7 @@
 layout: post
 title:  "Granular segregation: from particle-scale physics to continuum modeling"
 date:   2020-04-20 12:20:51 +0800
-categories: projects
+categories: research
 ---
 
 This research aims to advance fundamental understanding of granular segregation at the particle level and enhance predictive modeling of size and/or density segregation in various flow configurations.
