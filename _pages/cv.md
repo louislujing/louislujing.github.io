@@ -9,38 +9,46 @@ permalink: /cv/
 
 <!-- <img src="{{ site.baseurl }}{% link /assets/files/me.png %}" alt="photo" align="right" style="width: 150px;"/>
  -->
-[PDF version][1] 
+[PDF version][1] | Contact Me: louislujing_at_northwestern.edu
 
+<br/><br/>
 
-#### Education
+### EDUCATION
 
-+ Ph.D., Geotechnical Engineering, 2013-2017 
-	+ The University of Hong Kong, Hong Kong, China
+**The University of Hong Kong**, Hong Kong, China
 
-+ M.Sc., Geotechnical Engineering, 2010–2012
-	+ Tongji University, Shanghai, China
+*PhD* in Geotechnical Engineering, 2017
 
+**Tongji University**, China
 
-+ B.S., Civil Engineering, 2006–2010
-	+ Tongji University, Shanghai, China
+*MEng* in Geotechnical Engineering, 2012
 
+**Tongji University**, China
 
-#### Contact
+*BEng* in Civil Engineering, 2010
 
-<pre>
-Technological Institute
-Northwestern University
-2145 Sheridan Rd
-Evanston, IL 60208
-USA
-Email: louislujing_at_northwestern.edu
+<br/><br/>
 
-Haking Wong Building,
-The University of Hong Kong,
-Pokfulam Road,
-Hong Kong
-Email: lljing_at_hku.hk
-</pre>
+### RESEARCH EXPERIENCE
+
+**Northwestern University**, USA
+
+*Postdoctoral Fellow* in the Department of Chemical and Biological Engineering (Laboratory for Complex Systems and Nonlinear Dynamics in Fluids and Granular Materials)
+
+Advisors: Prof. Richard M. Lueptow, Prof. Julio M. Ottino, Prof. Paul Umbanhowar
+
+**University of Twente**, The Netherlands
+
+*Visiting Scholar* in the Multi-Scale Mechanics Group
+
+Hosts: Prof. Anthony Thornton, Prof. Thomas Weinhart
+
+**The University of Hong Kong**, Hong Kong, China
+
+*Senior Research Assistant* in the Department of Civil Engineering 
+
+Principal Investigator: Dr. Fiona Kwok
+
 
 
 [1]: {{ site.baseurl }}{% link /assets/files/cv.pdf %}

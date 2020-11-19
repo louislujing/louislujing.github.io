@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamics of immersed granular flows"
 date:   2017-03-17 20:20:51 +0800
-categories: research
+categories: none
 ---
 
 This research aims to understand the dynamics of immersed granular flow. We use both coarse-grid and fully-resolved fluid-particle coupling approaches, combined with small-scale laboratory experiments, to look at granular column collapses in a viscous fluid.
