@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Graphic overview of my PhD work"
-date:   2017-01-04 10:00:55 +0800
+title:  "Graphic overview of PhD thesis: Unraveling micromechanics of debris flow mobility"
+date:   2017-03-01 10:00:55 +0800
 categories: research
 ---
 
