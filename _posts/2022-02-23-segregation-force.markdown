@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Granular segregation: from particle-scale physics to continuum theory"
+title:  "Granular segregation: From particle-scale physics to continuum theory"
 date:   2022-02-23 14:50:40 +0800
 categories: research
 ---
