@@ -21,8 +21,7 @@
 title: Lu Jing
 email: louislujing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Lu Jing, Postdoc at Northwestern University,
-  PhD in computational geomechanics, geophysical fluid dynamics, and granular physics. 
+    "Tackling multiscale challenges in granular-material mechanics for a more sustainable future." 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""

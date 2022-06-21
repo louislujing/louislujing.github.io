@@ -9,7 +9,7 @@ permalink: /cv/
 
 <!-- <img src="{{ site.baseurl }}{% link /assets/files/me.png %}" alt="photo" align="right" style="width: 150px;"/>
  -->
-[PDF version][1] | Contact Me: louislujing_at_northwestern.edu
+[PDF version][1] | Contact Me: louislujing_at_gmail.com
 
 <br/><br/>
 
@@ -33,21 +33,15 @@ permalink: /cv/
 
 **Northwestern University**, USA
 
-*Postdoctoral Fellow* in the Department of Chemical and Biological Engineering (Laboratory for Complex Systems and Nonlinear Dynamics in Fluids and Granular Materials)
-
-Advisors: Prof. Richard M. Lueptow, Prof. Julio M. Ottino, Prof. Paul Umbanhowar
+*Postdoctoral Fellow* in the Laboratory for Complex Systems and Nonlinear Dynamics in Fluids and Granular Materials (Advisors: Richard M. Lueptow, Paul B. Umbanhowar, Julio M. Ottino)
 
 **University of Twente**, The Netherlands
 
-*Visiting Scholar* in the Multi-Scale Mechanics Group
-
-Hosts: Prof. Anthony Thornton, Prof. Thomas Weinhart
+*Visiting Scholar* in the Multi-Scale Mechanics Group (Hosts: Anthony Thornton, Thomas Weinhart)
 
 **The University of Hong Kong**, Hong Kong, China
 
-*Senior Research Assistant* in the Department of Civil Engineering 
-
-Principal Investigator: Dr. Fiona Kwok
+*Senior Research Assistant* in the Department of Civil Engineering (Advisor: Fiona Kwok)
 
 
 
