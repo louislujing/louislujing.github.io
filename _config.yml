@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lu Jing
+title: Jing Research Group
 email: louislujing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     "Tackling multiscale challenges in granular-material mechanics for a more sustainable future." 

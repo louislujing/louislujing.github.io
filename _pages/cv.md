@@ -1,19 +1,24 @@
 ---
 layout: page
-title: CV
+title: Lu Jing
 permalink: /cv/
 ---
 
 ## {{ page.title }}
 
 
-<!-- <img src="{{ site.baseurl }}{% link /assets/files/me.png %}" alt="photo" align="right" style="width: 150px;"/>
- -->
-[PDF version][1] | Contact Me: louislujing_at_gmail.com
+Assistant Professor at Tsinghua University
+
+
+[CV.pdf][1]
+
+Email address: lujing_at_sz.tsinghua.edu.cn
+
+Personal website: https://www.sigs.tsinghua.edu.cn/jl_en/
 
 <br/><br/>
 
-### EDUCATION
+#### EDUCATION
 
 **The University of Hong Kong**, Hong Kong, China
 
@@ -29,7 +34,11 @@ permalink: /cv/
 
 <br/><br/>
 
-### RESEARCH EXPERIENCE
+#### WORK EXPERIENCE
+
+**Tsinghua University**, China
+
+*Assistant Professor* in the Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China
 
 **Northwestern University**, USA
 
