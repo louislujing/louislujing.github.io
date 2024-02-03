@@ -6,33 +6,17 @@ permalink: /cv/
 
 ## {{ page.title }}
 
+Assistant Professor at Tsinghua University 
 
-Assistant Professor at Tsinghua University
-
-
-[CV.pdf][1]
-
-Email address: lujing_at_sz.tsinghua.edu.cn
-
-Personal website: https://www.sigs.tsinghua.edu.cn/jl_en/
-
-<br/><br/>
+[CV.pdf][1] \| lujing_at_sz.tsinghua.edu.cn \| https://www.sigs.tsinghua.edu.cn/jl_en/
 
 #### EDUCATION
 
-**The University of Hong Kong**, Hong Kong, China
+**The University of Hong Kong**, PhD, 2017
 
-*PhD* in Geotechnical Engineering, 2017
+**Tongji University**, MEng, 2012
 
-**Tongji University**, China
-
-*MEng* in Geotechnical Engineering, 2012
-
-**Tongji University**, China
-
-*BEng* in Civil Engineering, 2010
-
-<br/><br/>
+**Tongji University**, BEng, 2010
 
 #### WORK EXPERIENCE
 
@@ -42,15 +26,15 @@ Personal website: https://www.sigs.tsinghua.edu.cn/jl_en/
 
 **Northwestern University**, USA
 
-*Postdoctoral Fellow* in the Laboratory for Complex Systems and Nonlinear Dynamics in Fluids and Granular Materials (Advisors: Richard M. Lueptow, Paul B. Umbanhowar, Julio M. Ottino)
+*Postdoctoral Fellow* in the Laboratory for Complex Systems and Nonlinear Dynamics in Fluids and Granular Materials
 
 **University of Twente**, The Netherlands
 
-*Visiting Scholar* in the Multi-Scale Mechanics Group (Hosts: Anthony Thornton, Thomas Weinhart)
+*Visiting Scholar* in the Multi-Scale Mechanics Group
 
 **The University of Hong Kong**, Hong Kong, China
 
-*Senior Research Assistant* in the Department of Civil Engineering (Advisor: Fiona Kwok)
+*Senior Research Assistant* in the Department of Civil Engineering
 
 
 
